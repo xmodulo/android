@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LollipopTransitions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="one_shared">One Shared Element</string>
+    <string name="two_shared">Two Shared Elements</string>
+</resources>

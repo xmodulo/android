@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="AppColor">#e5ca699c</color>-->
+    <!--<color name="AppColorLight">#e5fa99cc</color>-->
+    <!--<color name="menu_bg">#65AA65</color>-->
+    <!--<color name="menu_selected_bg">#DDDDDD</color>-->
+    <!--<color name="main_background">#FFFFFF</color>-->
+    <!--<color name="button_background">#e5ca699c</color>-->
+    <!--<color name="fat_line_color">#33ff0000</color>-->
+    <!--<color name="thin_line_color">#33ff0000</color>-->
+    <!--<color name="uppercase_text_color">#411</color>-->
+    <!--<color name="lowercase_text_color">#733</color>-->
+    <!--<color name="DrawerMenuLineColor">#33ff0000</color> &lt;!&ndash; #228822 &ndash;&gt;-->
+
+    <!--<color name="AppColor">#e56464fc</color>-->
+    <!--<color name="AppColorLight">#e5a4a4fc</color>-->
+    <!--<color name="menu_bg">#65AA65</color>-->
+    <!--<color name="menu_selected_bg">#DDDDDD</color>-->
+    <!--<color name="main_background">#FFFFFF</color>-->
+    <!--<color name="button_background">#e56464ac</color>-->
+    <!--<color name="fat_line_color">#330000ff</color>-->
+    <!--<color name="thin_line_color">#330000ff</color>-->
+    <!--<color name="uppercase_text_color">#411</color>-->
+    <!--<color name="lowercase_text_color">#733</color>-->
+    <!--<color name="DrawerMenuLineColor">#330000ff</color> -->
+
+    <!--<color name="AppColor">?AppColor</color>-->
+    <!--<color name="AppColorLight">?AppColorLight</color>-->
+    <!--<color name="menu_bg">?menu_bg</color>-->
+    <!--<color name="menu_selected_bg">?menu_selected_bg</color>-->
+    <!--<color name="main_background">?main_background</color>-->
+    <!--<color name="button_background">?button_background</color>-->
+    <!--<color name="fat_line_color">?fat_line_color</color>-->
+    <!--<color name="thin_line_color">?thin_line_color</color>-->
+    <!--<color name="uppercase_text_color">?uppercase_text_color</color>-->
+    <!--<color name="lowercase_text_color">?lowercase_text_color</color>-->
+    <!--<color name="DrawerMenuLineColor">?DrawerMenuLineColor</color>-->
+
+    <!--<color name="AppColor">#e544ac44</color>-->
+    <!--<color name="AppColorLight">#e584fc84</color>-->
+    <!--<color name="menu_bg">#65AA65</color>-->
+    <!--<color name="menu_selected_bg">#DDDDDD</color>-->
+    <!--<color name="main_background">#FFFFFF</color>-->
+    <!--<color name="button_background">#e544ac44</color>-->
+    <!--<color name="fat_line_color">#3300ff00</color>-->
+    <!--<color name="thin_line_color">#3300ff00</color>-->
+    <!--<color name="uppercase_text_color">#411</color>-->
+    <!--<color name="lowercase_text_color">#733</color>-->
+    <!--<color name="DrawerMenuLineColor">#3300ff00</color>-->
+
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#66000000</color>
+
+    <color name="AppColorBlue">#6464ac</color>
+    <color name="AppColorGold">#e5aa44</color>
+    <color name="AppColorPink">#fa99cc</color>
+    <color name="AppColorGreen">#337733</color>
+    <color name="AppColorBlack">#000000</color>
+
+    <color name="AppColorLightBlue">#a4a4ac</color>
+    <color name="AppColorLightGold">#f8bb88</color>
+    <color name="AppColorLightPink">#d877aa</color>
+    <color name="AppColorLightGreen">#44AA44</color>
+    <color name="AppColorLightBlack">#565656</color>
+
+    <color name="AppColorBlueFaint">#666464fc</color>
+    <color name="AppColorGoldFaint">#66e5aa44</color>
+    <color name="AppColorPinkFaint">#66fa99cc</color>
+    <color name="AppColorGreenFaint">#66337733</color>
+    <color name="AppColorBlackFaint">#66000000</color>
+
+    <color name="main_background">#FFFFFF</color>
+    <color name="black_theme_background">#FFFFFF</color>
+
+</resources>
