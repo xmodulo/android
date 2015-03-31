@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConcurrentTasks Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_switch">Switch to Activity_B</string>
+    <string name="button_single">Single Concurrent Activity_B</string>
+    <string name="button_concurrent">Multiple Concurrent Activity_B</string>
+    <string name="button_close">Close Random Activity_B</string>
+    <string name="button_exit">Finish Activity</string>
+    <string name="button_main">Go to ActivityA</string>
+</resources>
