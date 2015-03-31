@@ -12,4 +12,4 @@ ActivityA can start ActivityB in one of three ways
 
 ActivityA can also close a random ActivityB, and each ActivityB can switch to ActivityA or close itself.
 
-The complete tutorial is available [here](http://xmodulo.com)
+The complete tutorial is available [here](http://xmodulo.com/document-centric-apps-concurrent-tasks-android.html)
